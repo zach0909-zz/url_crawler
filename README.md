@@ -1,3 +1,11 @@
+This application will find all the urls on a given webpage. Just start up a laravel server and run the migrations.
+
+Then, to input the url that you would like to crawl, go to `/urlCrawler/public/links/create`
+
+And watch the magic unfold!
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
