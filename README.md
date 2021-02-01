@@ -1,6 +1,6 @@
 This application will find all the urls on a given webpage. Just start up a laravel server and run the migrations.
 
-Then, to input the url that you would like to crawl, go to `/urlCrawler/public/links/create`
+Then, to input the WHOLE url (including http://www) that you would like to crawl, go to `/urlCrawler/public/links/create`
 
 And watch the magic unfold!
 
